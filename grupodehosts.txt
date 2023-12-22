@@ -1,0 +1,14 @@
+cisco 1
+cisco 2
+cisco 3
+cisco 4
+cisco 5
+cisco 6
+cisco 7
+mikrotik1
+mikrotik2
+mikrotik3
+mikrotik4
+mikrotik5
+mikrotik6
+mikrotik7
